@@ -1,9 +1,16 @@
 ---
 title: About
-date: 2018-07-07T03:00:50-07:00
-thumbnail: /images/uploads/bael-big.jpg
+date: 2021-02-02T20:44:35.557Z
+thumbnail: /images/uploads/beijingdancefestival2017.jpg
 ---
-# Bael is a free blogging theme to use with Netlify CMS. It has a utilitarian, brutalist design that lends itself to written content and full width images.
+# I am right here. 
 
-Available on [Github](https://github.com/jake-101/bael-template)   
-MIT Open Source License
+Welcome to my site. Here you will find the various endings and beginnings of my creative work and various projects I have had the pleasure of participating in. If you are 'here', I encourage you to click around - it is a website after all. 
+
+Enjoy your stay,  and I welcome your return.
+
+亚 女弟
+
+Tia Ashley Kushniruk
+
+(she/her)
