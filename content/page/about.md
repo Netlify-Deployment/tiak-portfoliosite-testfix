@@ -15,13 +15,9 @@ Tia Ashley Kushniruk
 
 (she/her)
 
-
-
 **artistic statement**
 
-Dance is my first language. It is my first love.  But, I am also a storyteller. My creative practise is the result of my love and affection for comedy and drama. The silliness of the everyday, sifted through by a fine tooth comb of tragedy. I lean heavily on the people I collaborate with to mold stories that hold truth in their hands, while they wink and poke fun about how heavy the truth actually is. Some early inspirations of mine are the works of Banksy, Pina Bausch, Charlie Chaplin, Hayo Miakazki, and Robin Williams. I love to find the irony in our world. To take a look at something and ask,” Why this, and why not like this?”. My stage work combines elements of clown, dance, script, music, props, costume, and mixed media. To say that I am fascinated with the 4th wall is an understatement. My stories consistently play with the performer/audience relationship that exists with visual storytelling. The current works of Barak Marshall, and Peeping Tom weigh heavy in my mind when I reflect upon the work I desire to emulate - the blending of dance and theatre to create works that bend the real and highlight the surreal to question everyday assumptions and provoke reflection. Can I control how you witness me? No, but I do control what I let you witness OF me. 
-
-
+Dance is my first language. It is my first love. But, I am also a storyteller. My creative practise is the result of my love and affection for comedy and drama. The silliness of the everyday, sifted through by a fine tooth comb of tragedy. I lean heavily on the people I collaborate with to mold stories that hold truth in their hands, while they wink and poke fun about how heavy the truth actually is. Some inspirations of mine are the work of Banksy, Pina Bausch, Charlie Chaplin, Hayo Miyazaki, and Robin Williams. I love to find the irony in our world. To take a look at something and ask,” Why this, and why not like this?”. My stage work combines elements of clown, dance, script, music, props, costume, and mixed media. I am fascinated with the 4th wall. My stories consistently play with the performer/audience relationship that exists with visual storytelling. Can I control how you witness me? No, but I do control what I let you witness OF me. 
 
 **biography** 
 
