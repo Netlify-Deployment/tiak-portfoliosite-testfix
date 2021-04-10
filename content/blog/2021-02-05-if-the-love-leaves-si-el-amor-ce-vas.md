@@ -13,4 +13,7 @@ thumbnail: /images/uploads/ifthelove.jpg
 
 This work was created and was shown with Fernando Camacho and Tia Kushniruk performing at The Winchester St Theatre in Toronto ON CAN. It premiered internationally at *Festival Internacional Nómada* in El Salvador in 2020 with Ryan Kostinyuk and José David Cerda performing.\
 \
+Link to Trailer [here](https://youtu.be/a8u7n0jl2PE)
+
+*Photo by Kate Wang*\
 Archival Footage Available upon request.
