@@ -37,4 +37,4 @@ Common Quotes that Tia says when teaching this workshop are:
 
 "I-I-I-I-I-I think I have been poisoned!"\
 \
-*For workshop or class inquiries please email tiaakush71@gmail.com*
+***For workshop or class inquiries please email tiaakush71@gmail.com***
