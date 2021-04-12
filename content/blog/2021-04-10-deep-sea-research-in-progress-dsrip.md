@@ -14,3 +14,5 @@ Kevin 'Shazam' Li, Juolin Lee, Calder White, Ileanna Cheladyn, and Susannah Haig
 *DSRIP* had it's first round of research with Left of Main (Vancouver) and is currently seeking one more creation residency, a technical residency, and a presentation opportunity. \
 \
 To watch a b-roll of the work click here.
+
+![](/images/uploads/img_3654.jpg "screencap from research excerpt 'u r so beauty'")
