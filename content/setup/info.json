@@ -5,6 +5,17 @@
   "showmenu": true,
   "emailsignup": true,
   "altlayout": false,
-  "menu": [],
+  "menu": [
+    {
+      "name": "email",
+      "link": "tiaakush71@gmail.com",
+      "position": "1"
+    },
+    {
+      "name": "facebook",
+      "link": "https://www.facebook.com/tia.kushniruk/",
+      "position": "2"
+    }
+  ],
   "linkcolor": "#000000"
 }
