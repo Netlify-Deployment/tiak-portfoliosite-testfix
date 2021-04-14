@@ -15,7 +15,8 @@ In process solo creation // collaborative and interdisciplinary play // tentativ
 
 *She opens the cook book again, a new paper cut appears.*
 
-\------------------------------------------------------------------------------------------\
+\------------------------------------------------------------------------------------------
+
 Presented 'in-process' at *PROSPECTS* May 2021
 
 for inquires contact [Knsemchuk1@gmail.com](mailto:Knsemchuk1@gmail.com)
