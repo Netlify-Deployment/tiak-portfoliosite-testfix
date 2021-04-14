@@ -4,7 +4,7 @@ date: Sunday February 7th, 2021
 thumbnail: /images/uploads/img_0118.jpeg
 category: Illustration/Other
 ---
-# Illustration Commissions 
+# Illustration Commissions
 
 I create Illustrations using Procreate, and animations using Flipaclip. 
 
@@ -20,6 +20,12 @@ Below is a list of companies/artists that I have had the pleasure of creating il
 
 ![excerpts of fever dreams illustrations](/images/uploads/untitled_artwork.jpeg "excerpts of fever dreams illustrations")
 
+*^ collage of illustrations for Fever Dreams* 
+
 ![departures](/images/uploads/143020943_4029054647128671_2156691147140285726_n.jpg "Sketch from Departures ")
 
+^*initial sketches for Departures*
+
 ![SK/RSA Logo Design](/images/uploads/img_0355.jpeg "SK/RSA Logo Design")
+
+*^ final design for the SK/RSA Logo*
