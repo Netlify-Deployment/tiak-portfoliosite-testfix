@@ -5,19 +5,23 @@ thumbnail: /images/uploads/beijingdancefestival2017.jpg
 ---
 # I am right here.
 
-Welcome to my site. Here you will find the various endings and beginnings of my creative work and various projects I have had the pleasure of participating in. If you are 'here', I encourage you to click around - it is a website after all. 
+Welcome to my site. Here you will find the various endings and beginnings of my creative work and various projects I have had the pleasure of participating in and generating. There are things for sale and things not for sale, however, at the right price, nothing is off limits. 
+
+ If you are 'here', I encourage you to click around - it is a website after all ;)
 
 Enjoy your stay,  and I welcome your return.
 
 亚 女弟
 
-Tia Ashley Kushniruk
+[Tia Ashley Kushniruk](https://inuashnar1.tumblr.com/)
 
 (she/her)
 
+\--------------------------------------------------------------------------------------------
+
 **artistic statement**
 
-Dance is my first language. It is my first love. But, I am also a storyteller. My creative practise is the result of my love and affection for comedy and drama. The silliness of the everyday, sifted through by a fine tooth comb of tragedy. I lean heavily on the people I collaborate with to mold stories that hold truth in their hands, while they wink and poke fun about how heavy the truth actually is. Some inspirations of mine are the work of Banksy, Pina Bausch, Charlie Chaplin, Hayo Miyazaki, and Robin Williams. I love to find the irony in our world. To take a look at something and ask,” Why this, and why not like this?”. My stage work combines elements of clown, dance, script, music, props, costume, and mixed media. I am fascinated with the 4th wall. My stories consistently play with the performer/audience relationship that exists with visual storytelling. Can I control how you witness me? No, but I do control what I let you witness OF me. 
+I am a dancer. I am a visual artist. I am a storyteller. My creative practise is the result of my love and affection for comedy and drama. The silliness of the everyday, sifted through by a fine tooth comb of tragedy. I lean heavily on the people I collaborate with to mold stories that hold truth in their hands, while they wink and poke fun about how heavy the truth actually is. Some inspirations of mine are the work of Banksy, Pina Bausch, Charlie Chaplin, Hayo Miyazaki, and Robin Williams. I am fascinated with the 4th wall. My stories consistently play with the performer/audience relationship that exists with visual storytelling. As a mixed race person, I am ***severely*** aware of the ways in which I can present myself in a space. Can I control how you witness me? No, but I do control what I let you witness OF me. All of my creative work aims to shine light on the dusty, forgotten, ghostly remains of our identities, and hands it a megaphone for us all to sit and listen. 
 
 **biography** 
 
