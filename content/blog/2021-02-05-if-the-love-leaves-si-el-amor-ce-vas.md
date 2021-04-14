@@ -1,5 +1,5 @@
 ---
-title: "if the love leaves/si el amor se vas "
+title: if the love leaves/si el amor se vas (2019)
 date: Friday February 5th, 2021
 thumbnail: /images/uploads/ifthelove.jpg
 ---
