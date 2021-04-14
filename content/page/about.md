@@ -30,6 +30,5 @@ Tia Ashley Kushniruk is a Queer Woman of Chinese-Eastern European settler herita
 She has had the pleasure of performing works of Antony Hamilton, Paul Andre-Fortier, Peggy Baker, Aria Evans, Christopher House, Shay Kuebler, Christianne Ullmark, Susie Burpee and Jasmyn Fyffe. She is an illustrator, a curator, a moderator, an animator, a stand-up comedian and a writer, and spends a good amount of her day-to-day meddlings thinking about live performance and audience interaction. Tia has been doing Illustration and Animation commissions since 2020. Her research has been supported by the Alberta Foundation for the Arts, and the Canada Council for the Arts, since 2014. She is the inaugural recipient of the CONFLUENCE Fellowship from Catalyst Theatre in Edmonton. 
 
 **performance c/v click [HERE](https://docs.google.com/document/d/1kcvhQCr81SILxBIKoiidS2oDJaWUi6OtJt16Y-LhgsQ/edit?usp=sharing)**\
-----------------------------------------------------------------------------------------------
 
 *image taken from The 2017 Beijing International Dance Festival with Kate Algrame*
