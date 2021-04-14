@@ -1,17 +1,25 @@
 ---
-title: Fever Dreams (2020)
+title: "Illustration Commissions "
 date: Sunday February 7th, 2021
 thumbnail: /images/uploads/img_0118.jpeg
 category: Illustration/Other
 ---
-# Commission by Plastic Orchid Factory's 2020/2021 Season *Fever Dreams*
+# Illustration Commissions 
 
-In response to 8 artists as part of Plastic Orchid Factory's (Vancouver) 20/21 season *Fever Dreams*, Tia created several illustrations to accompany in a printed book, and for the online publication. 
+I create Illustrations using Procreate, and animations using Flipaclip. 
 
-Click [here](http://plasticorchidfactory.ca/) to see the illustrations online. 
+Below is a list of companies/artists that I have had the pleasure of creating illustration commissions for:  
 
-Click [here](https://plastic-orchid-factory.square.site/product/fever-dreams/18) to purchase your very own copy of *Fever Dreams.*\
-\
-*illustration of Left of Main by Tia Ashley Kushniruk*
+* TwoBig Steps Collective *Departures*, Poster Design and Visual Artist (2021)
+* Shay Kuebler / Radical System Art,  Logo Design (2021)
+* Plastic Orchid Factory 2020/2021 Season, *Fever Dreams* 
 
-![](/images/uploads/untitled_artwork.jpeg "excerpts of fever dreams illustrations")
+  * Click [here](http://plasticorchidfactory.ca/) to see the illustrations online. Click [here](https://plastic-orchid-factory.square.site/product/fever-dreams/18) to purchase your very own copy of *Fever Dreams.*
+
+  *illustration of Left of Main by Tia Ashley Kushniruk*
+
+![excerpts of fever dreams illustrations](/images/uploads/untitled_artwork.jpeg "excerpts of fever dreams illustrations")
+
+![departures](/images/uploads/143020943_4029054647128671_2156691147140285726_n.jpg "Sketch from Departures ")
+
+![SK/RSA Logo Design](/images/uploads/img_0355.jpeg "SK/RSA Logo Design")
