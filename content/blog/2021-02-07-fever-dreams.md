@@ -8,7 +8,7 @@ category: Illustration/Other
 
 I create Illustrations using Procreate, and animations using Flipaclip. 
 
-Below is a list of companies/artists that I have had the pleasure of creating illustration commissions for:  
+Below is a list of companies/artists that I have had the pleasure of creating illustration commissions for. Rights of the illustrations belong to the commissioner:  
 
 * TwoBig Steps Collective *Departures*, Poster Design and Visual Artist (2021)
 * Shay Kuebler / Radical System Art,  Logo Design (2021)
