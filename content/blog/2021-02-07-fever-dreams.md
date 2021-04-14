@@ -1,5 +1,5 @@
 ---
-title: "Fever Dreams "
+title: Fever Dreams (2020)
 date: Sunday February 7th, 2021
 thumbnail: /images/uploads/img_0118.jpeg
 category: Illustration/Other
