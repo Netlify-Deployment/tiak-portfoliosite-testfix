@@ -4,13 +4,16 @@ date: Sunday February 7th, 2021
 thumbnail: /images/uploads/img_0118.jpeg
 category: Illustration/Other
 ---
-# Illustration Commissions
+# Illustration/Animation Commissions
 
-I create Illustrations using Procreate, and animations using Flipaclip. 
+I create Illustrations using Procreate, and Animations using Flipaclip. 
+
+To hire me to design/illustrate/animate your company/festival/project, please send inquiries to tiaakush71@gmail.com
 
 Below is a list of companies/artists that I have had the pleasure of creating illustration commissions for. Rights of the illustrations belong to the commissioner:  
 
 * TwoBig Steps Collective *Departures*, Poster Design and Visual Artist (2021)
+* adelheid, animation commission, NAC, *blue collar/2050* (2021)
 * Shay Kuebler / Radical System Art,  Logo Design (2021)
 * Plastic Orchid Factory 2020/2021 Season, *Fever Dreams* 
 
