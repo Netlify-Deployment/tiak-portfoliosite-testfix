@@ -10,3 +10,5 @@ Dramaturge - Victoria School for the Arts (Edmonton) 2020
 Reh. Director  & Outside Eye- Sarah Wong (Vancouver) '*pliant spaces' Vines Fest* 2020
 
 Programmer/Curator - *Dancing in the Park* (Edmonton) 2020
+
+Dance Critic - 'book club'
