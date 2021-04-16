@@ -13,8 +13,8 @@ To hire me to design/illustrate/animate your company/festival/project, please se
 Below is a list of companies/artists that I have had the pleasure of creating illustration commissions for. Rights of the illustrations belong to the commissioner:  
 
 * TwoBig Steps Collective *Departures*, Poster Design and Visual Artist (2021)
-* adelheid, animation commission, NAC, *blue collar/2050* (2021)
-* Shay Kuebler / Radical System Art,  Logo Design (2021)
+* [adelheid](https://adelheid.ca/), animation commission, NAC, *blue collar/2050* (2021)
+* [Shay Kuebler / Radical System Art](https://www.radicalsystemart.com/),  Logo Design (2021)
 * Plastic Orchid Factory 2020/2021 Season, *Fever Dreams* 
 
   * Click [here](http://plasticorchidfactory.ca/) to see the illustrations online. Click [here](https://plastic-orchid-factory.square.site/product/fever-dreams/18) to purchase your very own copy of *Fever Dreams.*
