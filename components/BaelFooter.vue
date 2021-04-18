@@ -14,12 +14,6 @@
         </div>
       </div>
       <div
-        v-if="signupBoolean"
-        class="c-25 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
-      >
-        <lazy-send-grid />
-      </div>
-      <div
         class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
         :class="signupAboutSize"
       >

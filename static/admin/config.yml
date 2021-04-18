@@ -42,7 +42,6 @@ collections:
         - {label: Site Description, name: sitedescription, widget: string}
         - {label: Site Icon (Must be 512x512 or larger square PNG), name: siteicon, widget: image,default: "/icon.png"}
         - {label: Show Icon in Menu, name: showmenu, widget: boolean}
-        - {label: Email Newsletter Signup, name: emailsignup, widget: boolean}
         - {label: Full Page Alt Layout, name: altlayout, widget: boolean}
         - {label: Link Color, name: linkcolor, widget: color}
         - label: Menu Links
@@ -66,6 +65,17 @@ collections:
   - label: 'Categories'
     name: 'blogcategories'
     folder: "content/category" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    format: 'json'
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Position, name: position, widget: string}
+      - {label: Description, name: description, widget: string, required: false}
+      - {label: Group, name: group, widget: string, required: true}
+  - label: 'Groupings'
+    name: 'bloggroupings'
+    folder: "content/grouping" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     format: 'json'
