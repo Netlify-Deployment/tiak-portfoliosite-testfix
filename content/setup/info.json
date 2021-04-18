@@ -1,25 +1,26 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Tia Ashley Kushniruk",
+  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js. Home of Tia Ashley Kushniruk.",
+  "siteicon": "/images/uploads/screen-shot-2021-04-02-at-2.00.35-pm.png",
   "showmenu": true,
-  "emailsignup": true,
+  "emailsignup": false,
   "altlayout": false,
   "menu": [
     {
-      "name": "jake101",
-      "position": "1",
-      "link": "https://www.jake101.com/"
+      "name": "facebook",
+      "link": "https://www.facebook.com/tia.kushniruk/",
+      "position": "2"
     },
     {
-      "name": "Nuxt.js",
-      "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
+      "name": "youtube",
       "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "https://www.youtube.com/channel/UCHXlhHHi9oChvUiUCt3nWHA"
+    },
+    {
+      "name": "tumblr",
+      "position": "4",
+      "link": "https://inuashnar1.tumblr.com/"
     }
-  ]
+  ],
+  "linkcolor": "#000000"
 }
