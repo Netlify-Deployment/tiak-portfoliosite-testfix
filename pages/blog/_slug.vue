@@ -15,12 +15,12 @@
           <h1 class="xs-py3 main-title">{{post.title}}</h1>
           <div class="xs-mt-5 bold">
             <ul class="list-unstyled xs-flex xs-flex-align-center">
-              <li class="xs-inline-block xs-mr1" v-if="post.category">
+              <li class="xs-inline-block xs-mr1" v-if="post.subcategory">
                 <div class="tag fill-gray-darker xs-border">
                   <nuxt-link
-                    :to="`/category/${post.category.toLowerCase()}`"
+                    :to="`/subcategory/${post.subcategory.toLowerCase()}`"
                     class="tag__link text-white"
-                  >{{post.category}}</nuxt-link>
+                  >{{post.subcategory}}</nuxt-link>
                 </div>
               </li>
               <li class="xs-inline-block">{{ post.date }}</li>

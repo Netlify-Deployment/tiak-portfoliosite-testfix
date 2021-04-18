@@ -37,7 +37,7 @@ module.exports = {
   loading: { color: '#3B8070' },
   modules: ['@nuxt/content', '@nuxtjs/pwa', '@nuxtjs/axios'],
   content: {
-    fullTextSearchFields: ['title', 'description', 'category']
+    fullTextSearchFields: ['title', 'description', 'subcategory']
   },
   manifest: {
     name: siteInfo.sitename,

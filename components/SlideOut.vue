@@ -34,8 +34,8 @@
       <li class="bael-slideout-menu-item--small">
         <nuxt-link to="/" exact>Home</nuxt-link>
       </li>
-      <li v-if="groupings.length" class="bael-slideout-menu-item--small">
-        <nuxt-link to="/groupings" exact>Groupings</nuxt-link>
+      <li v-if="categories.length" class="bael-slideout-menu-item--small">
+        <nuxt-link to="/categories" exact>Categories</nuxt-link>
       </li>
       <li v-for="(p,i) in pages" :key="`pg-${i}`" class="bael-slideout-menu-item--small">
         <nuxt-link :to="p.path">{{p.title}}</nuxt-link>
@@ -66,8 +66,8 @@ export default {
     info() {
       return this.$store.state.info;
     },
-    groupings() {
-      return this.$store.state.groupings;
+    categories() {
+      return this.$store.state.categories;
     },
   },
   methods: {

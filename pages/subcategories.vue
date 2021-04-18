@@ -1,5 +1,5 @@
 <template>
-  <bael-grid :posts="groupings" />
+  <bael-grid :posts="subcategories" />
 </template>
 
 <script>
@@ -7,7 +7,7 @@ export default {
   watchQuery: ["page"],
 
   async asyncData({ params, app, payload, route, store }) {
-    await store.commit("SET_TITLE", "Groupings");
+    await store.commit("SET_TITLE", "SubCategories");
   },
   transition(to, from) {
     if (!from) return "fade";
@@ -18,18 +18,18 @@ export default {
   },
   head() {
     return {
-      title: "Groupings | " + this.$store.state.info.sitename,
+      title: "SubCategories | " + this.$store.state.info.sitename,
     };
   },
   mounted() {
     this.$store.commit("SET_CURRENT", {
-      title: "Groupings",
+      title: "SubCategories",
       dir: ''
     });
   },
   computed: {
-    groupings() {
-      return this.$store.state.groupings;
+    subcategories() {
+      return this.$store.state.subcategories;
     },
   },
 };

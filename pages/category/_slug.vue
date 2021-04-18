@@ -1,37 +1,48 @@
 <template>
-  <bael-grid :posts="posts" />
+  <bael-grid :posts="categories" />
 </template>
 
 <script>
 export default {
-  async asyncData({ $content, params, store, error }) {
-    const category = await $content("category", params.slug)
-      .fetch()
-      .catch((err) => {
-        error({ statusCode: 404, message: "Page not found" });
-      });
+  watchQuery: ["page"],
 
-    const posts = await $content("blog")
-      .sortBy("createdAt", "desc")
-      .where({ category: category.title })
-      .fetch();
-
-    return {
-      category,
-      posts,
-    };
+  async asyncData({ params, app, payload, route, store }) {
+    await store.commit("SET_TITLE", "Categories");
+  },
+  transition(to, from) {
+    if (!from) return "fade";
+    return +to.query.page > +from.query.page ? "slide-right" : "slide-left";
+  },
+  data() {
+    return {};
   },
   head() {
     return {
-      title: this.category.title + " | " + this.$store.state.info.sitename,
+      title: "Categories | " + this.$store.state.info.sitename,
     };
   },
-  transition(to, from) {
-    if (!from) return "slide-right";
-    return +to.query.page > +from.query.page ? "slide-right" : "slide-left";
-  },
   mounted() {
-    this.$store.commit("SET_CURRENT", this.category);
+    this.$store.commit("SET_CURRENT", {
+      title: "Categories",
+      dir: ''
+    });
+  },
+  computed: {
+    categories() {
+        console.log(this.$store.state.subcategories);
+        console.log(this);
+        console.log(this.$store.$router.currentRoute.params.slug);
+        var groupTitle = this.$store.$router.currentRoute.params.slug;
+        var filteredCategories = [];
+        for (var i = 0; i < this.$store.state.subcategories.length; i++) {
+            console.log("Comparison: " + this.$store.state.subcategories[i].group.toLowerCase() + " VS " + groupTitle.toLowerCase());
+            if (this.$store.state.subcategories[i].group.toLowerCase() == groupTitle.toLowerCase()) {
+                filteredCategories.push(this.$store.state.subcategories[i]);
+            }
+        }
+        return filteredCategories;
+      //return this.$store.state.subcategories;
+    },
   },
 };
 </script>
