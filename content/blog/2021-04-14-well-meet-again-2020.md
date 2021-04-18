@@ -15,4 +15,6 @@ Link to script: [https://docs.google.com/document/d/1x...](https://www.youtube.c
 
 To watch this film, click [here.](https://youtu.be/hVo0Yn7Erz4)
 
+For inquires please email tiaakush71@gmail.com
+
 ![](/images/uploads/screen-shot-2021-04-14-at-1.45.16-pm.png)
