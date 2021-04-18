@@ -17,6 +17,8 @@ Enjoy your stay,  and I welcome your return.
 
 (she/her)
 
+tiaakush71@gmail.com
+
 \----------------------------------------------------------------------------------------------
 
 **artistic statement**
