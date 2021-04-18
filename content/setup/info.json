@@ -3,7 +3,7 @@
   "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js. Home of Tia Ashley Kushniruk.",
   "siteicon": "/images/uploads/screen-shot-2021-04-02-at-2.00.35-pm.png",
   "showmenu": true,
-  "emailsignup": true,
+  "emailsignup": false,
   "altlayout": false,
   "menu": [
     {
