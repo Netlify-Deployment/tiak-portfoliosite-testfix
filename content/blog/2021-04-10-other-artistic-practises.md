@@ -3,7 +3,9 @@ title: Other Artistic Practises
 date: Saturday April 10th, 2021
 thumbnail: /images/uploads/73160890_568600110575496_4718688308199161856_n.jpg
 ---
-*image of Victoria School for the Arts and Tia Ashley Kushniruk during a Performance Workshop*
+*image of Victoria School for the Arts and Tia Ashley Kushniruk during a Performance Workshop*\
+\
+*for inquiries email* tiaakush71@gmail.com
 
 Dramaturge - Victoria School for the Arts (Edmonton) 2020
 
