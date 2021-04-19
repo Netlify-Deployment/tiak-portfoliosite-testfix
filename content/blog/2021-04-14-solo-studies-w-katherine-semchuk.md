@@ -2,6 +2,7 @@
 title: Solo studies w/katherine semchuk
 date: Tuesday April 13th, 2021
 thumbnail: /images/uploads/screen-shot-2021-04-02-at-11.03.49-am.png
+subcategory: Live work inProgress
 ---
 # Solo studies w/katherine semchuk
 
