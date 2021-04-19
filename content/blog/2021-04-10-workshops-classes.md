@@ -6,6 +6,8 @@ subcategory: workshops/classes
 ---
 # workshops/classes
 
+*Photo of reset in suits by Jasmyn Fyffe. Photo Credit Omer Yusker. L/R Alana Elmer, Tia Ashley Kushniruk, Pulga Muchochoma*
+
 \----------------------------------------------------------------------------------------------
 
 **CONTEMPORARY DANCE COLLAGE - Professional Class**
