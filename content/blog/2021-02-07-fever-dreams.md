@@ -2,7 +2,7 @@
 title: "Illustration/Animation Commissions "
 date: Sunday February 7th, 2021
 thumbnail: /images/uploads/img_0118.jpeg
-subcategory: Illustration/Other
+subcategory: Illustration/Animation Commissions
 ---
 # Illustration/Animation Commissions
 
