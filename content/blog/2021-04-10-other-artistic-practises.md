@@ -2,6 +2,7 @@
 title: Other Artistic Practises
 date: Saturday April 10th, 2021
 thumbnail: /images/uploads/73160890_568600110575496_4718688308199161856_n.jpg
+subcategory: Other Artistic Practises
 ---
 *image of Victoria School for the Arts and Tia Ashley Kushniruk during a Performance Workshop*\
 \
