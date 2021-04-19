@@ -2,6 +2,7 @@
 title: Workshops/Classes
 date: Saturday April 10th, 2021
 thumbnail: /images/uploads/glassfieldsresetinsuits-tdt.jpg
+subcategory: workshops/classes
 ---
 # workshops/classes
 
