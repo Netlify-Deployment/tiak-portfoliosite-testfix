@@ -31,8 +31,16 @@ export default {
     categories() {
         console.log(this.$store.state.subcategories);
         console.log(this);
-        console.log(this.$store.$router.currentRoute.params.slug);
-        var groupTitle = this.$store.$router.currentRoute.params.slug;
+        console.log(this.$store.state.categories);
+        var storedCats = this.$store.state.categories;
+        var currentCategory;
+        for (var i = 0; i < storedCats.length; i++) {
+          if (storedCats[i].slug == this.$store.$router.currentRoute.params.slug) {
+            console.log("Found current category");
+            currentCategory = storedCats[i];
+          }
+        }
+        var groupTitle = currentCategory.id;
         var filteredCategories = [];
         for (var i = 0; i < this.$store.state.subcategories.length; i++) {
             console.log("Comparison: " + this.$store.state.subcategories[i].group.toLowerCase() + " VS " + groupTitle.toLowerCase());
