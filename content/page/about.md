@@ -33,4 +33,12 @@ She has had the pleasure of performing works of Antony Hamilton, Paul Andre-Fort
 
 **performance c/v click [HERE](https://docs.google.com/document/d/1kcvhQCr81SILxBIKoiidS2oDJaWUi6OtJt16Y-LhgsQ/edit?usp=sharing)**\
 
+\----------------------------------------------------------------------------------------------
+
+Thank you to the Canada Council for the Arts, and the Alberta Foundation for the Arts for your support in my artistic practise, presentation and performance. 
+
+![](/images/uploads/cca_rgb_colour_e.jpg)
+
+![](/images/uploads/afa_logovert2col.jpg)
+
 *image taken from The 2017 Beijing International Dance Festival with Kate Algrame*
