@@ -6,8 +6,9 @@ subcategory: Live work inProgress
 ---
 # DSRIP
 
-*Deep Sea Research in Progress* (*DSRIP*) is a collaboration between Jenna Berlyn Mazur, Tia Ashley Kushniruk, and Kenzie Bowes. Initially inspired by the ideals of 'Beauty' and 'Beauty' in dark times, this work seeks to exploit the aesthetic reign of colonial western dance standards in contemporary concert dance using a variety of zany characters, motifs and relationships to metaphorically posture how to reclaim what is truly 'beautiful' to you. 
+*Deep Sea Research in Progress* (*DSRIP*) is a collaboration between Jenna Berlyn Mazur, Tia Ashley Kushniruk, and Kenzie Bowes. Initially inspired by the ideals of 'Beauty' and 'Beauty' in dark times, *DSRIP* seeks to exploit the aesthetic reign of colonial western dance standards in contemporary concert dance using a variety of zany archetypal characters, displaying the motifs of artifice, suffering, and decay through violent means, and ‘our relationship to the audience’, to metaphorically posture how to reclaim what is truly 'beautiful' to us. The cast of DSRIP comprises a multicultural team of dance artists with various sexual orientations, gender identities & expressions. The cast we are working with is essential to how we craft the world of DSRIP and to subvert the normalcy of ‘beauty’ within contemporary concert dance. 
 
+\
 Created in a devised space, this work was built together with:
 
 Kevin 'Shazam' Li, Juolin Lee, Calder White, Ileanna Cheladyn, and Susannah Haight. 
