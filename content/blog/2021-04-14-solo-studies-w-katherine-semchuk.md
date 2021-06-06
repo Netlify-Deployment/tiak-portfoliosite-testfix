@@ -1,10 +1,10 @@
 ---
-title: Solo studies w/katherine semchuk
+title: "'XII small deaths' w/katherine semchuk"
 date: Tuesday April 13th, 2021
 thumbnail: /images/uploads/screen-shot-2021-04-02-at-11.03.49-am.png
 subcategory: Live work inProgress
 ---
-# Solo studies w/katherine semchuk
+# *XII small deaths* w/katherine semchuk
 
 In process solo creation // collaborative and interdisciplinary play // tentative title *12 small deaths //* part of a larger solo series with Peggy Baker and Sasha Ivanochko //
 
