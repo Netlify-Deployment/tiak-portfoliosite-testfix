@@ -6,7 +6,7 @@ subcategory: Live work inProgress
 ---
 # b/d/a *OR* The Race Play *OR* 'I can't believe I did a racism! (In my head)'
 
-*b/d/a **OR** The Race Play **OR** 'I can't believe I did a racism! (In my head)'* is a Physical-theatre Play co-written by Tia Ashley Kushniruk, Shammy (Shamsa) Belmore, [Jocelyn Mah](https://www.jocelynmah.com/), and Clarke Blair, with support from Catalyst Theatre's CONFLUENCE Fellowship in Edmonton AB. 
+*b/d/a **OR** The Race Play **OR** 'I can't believe I did a racism! (In my head)'* is a Physical-theatre Play co-written by Tia Ashley Kushniruk, Shammy (Shamsa) Belmore, [Jocelyn Mah](https://www.jocelynmah.com/), and Clarke Blair, with support from [Catalyst Theatre](http://catalysttheatre.ca/)'s CONFLUENCE Fellowship in Edmonton AB. 
 
 This work follows three characters in a perfect sitcom world solving a problem with rent when the actors begin switching roles and ultimately reveal the racial biases underneath each said character, and between each other, culminating in a posed question to the audience - "What would you do?"
 
