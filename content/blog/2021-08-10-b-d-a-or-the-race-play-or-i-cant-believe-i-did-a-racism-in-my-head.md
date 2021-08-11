@@ -10,9 +10,9 @@ subcategory: Live work inProgress
 
 This work follows three characters in a perfect sitcom world solving a problem with rent when the actors begin switching roles and ultimately reveal the racial biases underneath each said character, and between each other, culminating in a posed question to the audience - "What would you do?"
 
-In 3 Acts, *b/d/a **OR** The Race Play **OR** 'I can't believe I did a racism! (In my head)'* is a work that examines colour blind casting and the stories that we continue to tell ourselves to make everything all right. 
+In 3 Acts, *b/d/a **OR** The Race Play **OR** 'I can't believe I did a racism! (In my head)'* examines colour blind casting and the stories that we continue to tell ourselves to make everything seem 'all right'. 
 
-*b/d/a **OR** The Race Play **OR** 'I can't believe I did a racism! (In my head)'* requires a technical residency and two additional research periods before presentation. This work is not classified as 'Dance', rather 'Physical Theatre'. 
+*b/d/a **OR** The Race Play **OR** 'I can't believe I did a racism! (In my head)'* requires a technical residency and two additional research periods before presentation. This work is not 'Dance' rather it is 'Physical Theatre'. 
 
 Please email *tiaakush71@gmail.com* for inquires. 
 
