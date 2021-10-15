@@ -27,7 +27,7 @@ I am a dancer. I am a visual artist. I am a storyteller. My creative practise is
 
 **biography** 
 
-Tia Ashley Kushniruk is a Queer Woman of Chinese-Eastern European settler heritage from the Treaty 6 Territory of Edmonton AB CAN. Since 2013 she has been affiliated with the Cirque Du Soleil and is a frequent collaborator of Jake W. Hastey. She graduated from The School of Toronto Dance Theatre in 2017, receiving the Kathryn Ash Scholarship in 2016.
+Tia Ashley Kushniruk (亚 女弟) is a queer woman of Chinese-Eastern European settler heritage from the Treaty 6 Territory of Amiskwaciwâskahikan/Edmonton. Since 2013 she has been affiliated with the Cirque Du Soleil and is a frequent collaborator of Jake W. Hastey ([Toy Guns Dance Theatre](http://toygunstheatre.com/index.html)). She graduated from The School of Toronto Dance Theatre in 2017, receiving the Kathryn Ash Scholarship in 2016.
 
 She has had the pleasure of performing works of Antony Hamilton, Paul Andre-Fortier, Peggy Baker, Aria Evans, Christopher House, Shay Kuebler, Christianne Ullmark, Susie Burpee and Jasmyn Fyffe. She is an illustrator, a curator, a moderator, an animator, a stand-up comedian and a writer, and spends a good amount of her day-to-day meddlings thinking about live performance and audience interaction. Tia has been doing Illustration and Animation commissions since 2020. Her research has been supported by the Alberta Foundation for the Arts, and the Canada Council for the Arts, since 2014. She is the inaugural recipient of the CONFLUENCE Fellowship from Catalyst Theatre in Edmonton. 
 
