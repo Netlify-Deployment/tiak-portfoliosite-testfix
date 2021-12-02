@@ -36,6 +36,8 @@ Sarah Wong
 
 Andrea Handal Rivera 
 
+Susannah Haight
+
 Jake Tkaczyk 
 
 [Berend McKenzie](https://en.wikipedia.org/wiki/Berend_McKenzie) 
