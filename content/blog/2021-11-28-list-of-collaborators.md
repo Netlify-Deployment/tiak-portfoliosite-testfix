@@ -28,6 +28,8 @@ Kenzie Bowes
 
 Kristen Innes-Stambolic
 
+Shay Saver
+
 [Nicolas Lehmann](https://www.lehmannmedia.com/) 
 
 Alexander Boldt 
