@@ -35,7 +35,7 @@ Common Quotes that Tia says when teaching this class are:
 
 \----------------------------------------------------------------------------------------------
 
-**DO YOU LIKE JAZZ? -** **Post-Secondary/Pre-Professional/Professional Workshop**
+**Do you like *jazz*?: Composition Workshop -** **Pre-Professional**
 
 A performance workshop stemmed from my own history and practises in theatre improv., Clown, musical theatre, Buffon, and dance-theatre, participants will be given several movement/performative/text-based clues, from which they get to play and meander with through a block of direction/directions. This workshop pulls participants into a space of play, disaster, and surprise, resulting in instances of humour, relief, and silliness. \
 \
@@ -46,6 +46,22 @@ Common Quotes that Tia says when teaching this workshop are:
 "COME AND GET IT CHAD."
 
 "I-I-I-I-I-I think I have been poisoned!"
+
+\----------------------------------------------------------------------------------------------
+
+**IMPROVE THEATRE FOR DANCERS - Post-Secondary/Professional** 
+
+Pretty self explanatory: It's Improv Theatre for Dancers! This class follows the basic fundamentals of Theatre Improv teaching participants how to support other players, gain confidence in their instincts and choices, and getting people comfortable with using text as a means of play. At the end of every class, we culminate with a short form improv scene utilizing all that we have learnt in the class. If I am teaching a group of people for a longer period, we do make our way up to Heralds i.e. Long Form improv scenes. \
+\
+Common Quotes that Tia says when teaching this workshop are: 
+
+"You're wimping! AND NOW YOU'RE WAFFLING" 
+
+"Yes, and!"
+
+"V is for Vests." 
+
+"...and it was at that moment they knew the date - September 11th, 2001."
 
 \----------------------------------------------------------------------------------------------\
 \
