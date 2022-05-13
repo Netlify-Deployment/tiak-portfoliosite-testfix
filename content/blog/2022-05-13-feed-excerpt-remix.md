@@ -1,5 +1,5 @@
 ---
-title: FEED (excerpt.remix) 2022
+title: FEED (excerpt.remix) (2022)
 date: Friday May 13th, 2022
 thumbnail: /images/uploads/untitled_artwork.jpg
 subcategory: Live Work
