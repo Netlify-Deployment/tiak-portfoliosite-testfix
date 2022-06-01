@@ -5,8 +5,9 @@ thumbnail: /images/uploads/beijingdancefestival2017.jpg
 ---
 # I am right here.
 
-Welcome to my site. Here you will find the various endings and beginnings of my creative work and various projects I have had the pleasure of participating in and generating. There are things for sale and things not for sale, however, at the right price, nothing is off limits. 
+Welcome to my site. Here you will find the various endings and beginnings of my creative work and various projects I have had the pleasure of participating in and generating. In my capacity as a creator in the Canadian arts community, I have had the fortune of working during Covid-19 with several commissions and residencies in varying artistic formats from coast to coast. The work I make and participate in is often interdisciplinary and genre-stretching asking my collaborators, as well as my audiences, to bend the limits of their predisposed notions around theatre, dance, and individuality on stage, screen, or behind the scenes. As a Queer Woman of Colour, the teams I assemble are with people that have similar identity and beliefs to mine; the gumption to innovate archaic and outdated practices/methods of creation and presentation, the understanding and power that representation holds in what we consume, and those who believe in the power of art. 
 
+\
  If you are 'here', I encourage you to click around - it is a website after all ;)
 
 Enjoy your stay,  and I welcome your return.
