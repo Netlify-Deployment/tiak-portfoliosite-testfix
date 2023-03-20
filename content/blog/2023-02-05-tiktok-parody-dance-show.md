@@ -1,5 +1,5 @@
 ---
-title: "tiktok parody dance show "
+title: tiktok parody dance show (2023)
 date: Saturday February 4th, 2023
 thumbnail: /images/uploads/looptiktok.gif
 subcategory: Live work inProgress
@@ -10,6 +10,8 @@ C﻿reated with Rizwan Mohiuddin
 
 This work will premiere at Found Festival in Edmonton AB July 3-6, 2023
 
-F﻿or inquires about BRoll or Tech requirements, please email:
+T﻿o watch a trailer of this work, click [here.](https://youtu.be/_8OU5n46hD4)
+
+F﻿or inquires, please email:
 
 t﻿iaakush71@gmail.com
