@@ -7,7 +7,7 @@ I﻿ attended the NES artist residency in Iceland for all of April 2023. I gener
 
 *m﻿ake me cry 2* - collection of experiments documented and edited on video displayed on a loop during the residency
 
-https://youtu.be/1UpKpPVKPIc
+<https://youtu.be/1UpKpPVKPIc>
 
 
 
