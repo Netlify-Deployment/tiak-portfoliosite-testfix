@@ -1,5 +1,5 @@
 ---
-title: make me cry
+title: make me cry (2023)
 date: Thursday November 2nd, 2023
 thumbnail: /images/uploads/untitled_artwork-8.png
 subcategory: Live Work
