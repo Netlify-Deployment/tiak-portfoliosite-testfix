@@ -24,9 +24,13 @@ tiaakush71@gmail.com
 
 **artistic statement**
 
-I am fascinated with the 4th wall. My stories consistently play with the performer/audience relationship that exists with visual storytelling. As a mixed race person, I am severely aware of the ways in which I can present(represent) myself in a space and in a work, and I am continuously reminded of my own inconsistencies as, again, someone of mixed racial presentation. I have an identity that is neither Chinese or Ukrainian. So as I choose to follow my curiosity as an artist, I look to my mixed identity as inspiration for my creative inclinations and projects.  I am drawn towards intersections in artistic mediums and the power of representation, storytelling, and human ambition, and the middle ground of everything in between. My own creative body of work encompasses illustration, poem, clown, dance, stand-up comedy, improv theatre, short fiction, screenplay, plays, dance-theatre, film, animation, as well as dramaturgy, rehearsal direction, and consultation. There is no end to my curiosity and drive to collaborate and intersect across artistic mediums and disciplines. 
+Straddling sincerity and mockery, Tia Ashley Kushniruk's (亚 女弟) artistic milieu swings wildly from honesty to parody, indelicately proclaiming the hypocrisies of what it really means to be a person living today. Not shying away from informal performance art, 5 minute stand-up sets, to high end kpop light shows, Kushniruk's work cross examines the confusing toxic barrage of what a contemporary western identity is with her own lived experience of being a 1st generation queer mixed race Chinese-Canadian from a working class family. Key to Kushniruk's work is her ability to place nightmarish existential horrors into live stage experiences. In her 2020 work *monolith,* Tia examines consent, command, obedience, and violence through the relationship between a director and their subordinate in a 'groundhog day' loop, clouding the audience into a distrust of both players in the space. Who actually has power, and how far will someone go to show that power over the other? \
+\
+Kushniruk's adaptable artistry is crafted through an encyclopedic lens of current pop-culture, high risk/high reward style theatre making, and her dynamically magnetic stage presence and poetic physical vibrancy. As the broader realm of Canadian art continues further into reflective pieces of passive somber beauty, Kushniruk's work is like a flash bomb going off in a dark closet; violent, shocking, blinding, and potentially able to make you rethink why you thought testing a flash bomb in a closet was a good idea in the first place.  
 
-My m.o. as an artist is to remind everyone that *your fictions have consequences*. 
+*I Have No Mouth, and I Must Scream - Harlan Ellision*
+
+
 
 **biography** 
 
