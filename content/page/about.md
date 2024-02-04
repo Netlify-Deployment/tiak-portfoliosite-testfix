@@ -30,28 +30,18 @@ Kushniruk's adaptable artistry is crafted through an encyclopedic lens of curren
 
 *I Have No Mouth, and I Must Scream - Harlan Ellision*
 
-
-
 **biography** 
 
-My name is Tia Ashley Kushniruk (亚 女弟) and I am a queer woman of Chinese-Eastern European settler heritage from the Treaty 6 Territory of Amiskwaciwâskahikan/Edmonton. I am a celebrated interdisciplinary dance artist who has represented Edmonton across Canada and around the globe. My creative body of work is vast in terms of medium and inspiration; I am primarily a dance artist, however I am also an animator, illustrator, filmmaker and writer.  
-
-I sought advanced-level training in contemporary dance at the School of the Toronto Dance Theatre, where I graduated from in 2017. While at the school, I received the Kathryn Ash Scholarship (2016), and was nominated for the Hnatyshyn Prize (2016). Shortly after graduating, I was named one of NOW Magazine’s Top Breakthrough Stage Artists in 2017 (Toronto). I have continued training through various workshops and intensives, including recently at One Clown North, led by Jon Turner of Mump and Smoot.
-
-I am a highly sought after dance artist, touring with companies across Canada and the world (Colombia, the U.S.A., Israel, France, Austria). I performed with the Toronto Dance Theatre under the artistic direction of Christopher House from 2017 - 2019, and in that time was mentioned by name in a review in the Globe and Mail (Toronto) and was nominated for a 2017 DORA Mavor Moore Award for Best Ensemble. I have been a company member with Shay Kuebler/RSA (Vancouver) since 2018, and have worked with renowned choreographers including: Peggy Baker (Toronto), Benjamin Kamino (Toronto/Montreal), Antony Hamilton (Melbourne, Australia), Paul Andre-Fortier (Montreal/London, England), Aria Evans (Toronto), Susie Burpee (Toronto), and Jaz Fairy J. Adina Simone (Toronto). In 2018, I was the Canadian Ambassador at the Beijing International Dance Festival, performing a work by Calgary-based Christianne Ullmark. I have been affiliated with the Cirque Du Soleil since 2013 and am a long-time collaborator of Jake W. Hastey (Toy Guns Dance Theatre). 
-
-I have a strong interdisciplinary vision as a creator, and my work has been presented and commissioned throughout Alberta and across Canada. In 2020/2021, I was Catalyst Theatre’s (Edmonton) inaugural CONFLUENCE Fellow, and was commissioned by Mile Zero (Edmonton) to create my first large-scale work entitled *monolith* (2021). I have produced numerous dance films, including *A Geography Of Queer Woundings* (2020) commissioned as a part of Springboard Performance’s Fluid Fest (Calgary) and was subsequently reviewed in The Dance Current. In 2020, I was commissioned by Adeleid (Toronto) to create a short animated film entitled *blue collar/2050* which was presented at the NAC in Ottawa. Other recent commissions include: a work on the second year students at The School of TDT (Toronto), and a work on the students at SGSDance (Edmonton). I have also served as an outside eye and dramaturg for several dance works, including *basin* (2022, Kate Stashko, Edmonton), *BABY* (2022, Calder White, Vancouver), *STOP!?* (2022, Eilish Shin-Culhane, Toronto), and *pliant spaces* (2020, Sarah Wong, Vancouver). Additionally I have been the co-director and co-curator of Edmonton-based digital dance festival Dancing in the Park Online (2020-2022), which is now entering its 3rd season. 
-
-My research has been supported by the Alberta Foundation for the Arts, and the Canada Council for the Arts, since 2014. 
+Tia Ashley Kushniruk (亚 女弟) is a Chinese-Ukrainian Queer Woman based in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ (Amiskwacîwâskahikan) Treaty 6/Métis Territory of Edmonton AB. Since 2013 she has been affiliated with the Cirque Du Soleil and an artistic producer of Toy Guns Dance Theatre. She has had the pleasure of performing works of Antony Hamilton, Benjamin Kamino, Alyssa Martin, Heidi Strauss, Christopher House, Shay Kuebler, Christianne Ullmark - touring Nationally and Internationally since 2013. Her own work has been presented by The Beijing International Dance Festival, Springboard's Fluid Festival, Common Grounds Dance Festival, Festival Internacional Nomada, Dancing on the Edge, Fluid Festival, Found Festival, Mile Zero, and the New Dance Arts Institute (formerly the School of TDT). Tia's illustration and animation work has been commissioned by mallo, Here for Now, Plastic Orchid Factory, Two Big Steps, and adelheid/The NAC. She is the first recipient of the Catalyst Confluence Fellowship and a 2023 EATF recipient. Kushniruk recently finished a mentorship with Toronto-based performance artist Bridget Moser. 
 
 **performance c/v click** [](https://docs.google.com/document/d/1kcvhQCr81SILxBIKoiidS2oDJaWUi6OtJt16Y-LhgsQ/edit?usp=sharing)**[HERE](https://docs.google.com/document/d/1UZJ42FNEPvqtMuWyjYz2gANO-9r1LAUZ8ucUeqRyj78/edit?usp=sharing)** 
 
 \----------------------------------------------------------------------------------------------
 
-Thank you to the Canada Council for the Arts, and the Alberta Foundation for the Arts for your support in my artistic practise, presentation and performance. 
+Thank you to the Edmonton Arts Council, The Edmonton Arts Trust Fund, Canada Council for the Arts, and the Alberta Foundation for the Arts for your support in my artistic practise, presentation and performance. 
 
-![](/images/uploads/cca_rgb_colour_e.jpg)
+![]()
 
-![](/images/uploads/afa_logovert2col.jpg)
+![]()
 
 *image taken from The 2018 Beijing International Dance Festival with Kate Algrame*
