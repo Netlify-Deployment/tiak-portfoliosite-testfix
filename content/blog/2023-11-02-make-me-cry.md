@@ -8,8 +8,6 @@ subcategory: Live Work
 
 to watch the trailer, please click [here](https://youtu.be/A-VoBgJj4zc)
 
-
-
 '﻿make me cry' 
 
 C﻿horeographer/Creator: Tia Ashley Kushniruk
@@ -28,6 +26,4 @@ V﻿ideographer: Naomi Caufield
 
 S﻿pecial Thanks: Susannah Haight, Clarke Blair, Eryn Tempest, Stephen Thompson, Andrew Tay, Nicole Mion, NES artist residency, Jocelyn Mah
 
-
-
-'﻿make me cry' was first presented at Fluid Festival 2023 in Calgary AB CAN.
+'﻿make me cry' was first presented at Fluid Festival 2023 in Calgary AB CAN and part of Mile Zero's  Magpie   Collection Festival 2024. 'make me cry' will be presented as part of Tangente's 25/26  season in Monteal PQ
