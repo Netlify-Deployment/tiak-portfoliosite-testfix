@@ -21,6 +21,4 @@ Created in a devised space, this creative research was built together with these
 \
 To watch a playlist of the research click [here](https://youtube.com/playlist?list=PL1cAd3GGjp0iWmvunEbmj6BvaIwfGAB6J).
 
-For additional questions please email either jenna.mazur@live.com or tiaakush71@gmail.com 
-
-![](/images/uploads/img_3654.jpg "screencap from research excerpt 'u r so beauty'")
+For additional questions please email either jenna.mazur@live.com or tiaakush71@gmail.com
