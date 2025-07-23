@@ -2,6 +2,7 @@
 title: NES / the artist is sleeping
 date: Monday May 15th, 2023
 thumbnail: ""
+subcategory: RESEARCH & other
 ---
 I﻿ attended the NES artist residency in Iceland for all of April 2023. I generated images, practised break-dance, learnt blender and generated some video documentation of experiments I wanted to see. Here is some evidence of the experimentation. learnt blender 
 
