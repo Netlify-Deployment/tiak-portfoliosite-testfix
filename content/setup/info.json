@@ -5,22 +5,6 @@
   "showmenu": true,
   "emailsignup": false,
   "altlayout": false,
-  "menu": [
-    {
-      "name": "facebook",
-      "link": "https://www.facebook.com/tia.kushniruk/",
-      "position": "2"
-    },
-    {
-      "name": "youtube",
-      "position": "3",
-      "link": "https://www.youtube.com/channel/UCHXlhHHi9oChvUiUCt3nWHA"
-    },
-    {
-      "name": "tumblr",
-      "position": "4",
-      "link": "https://inuashnar1.tumblr.com/"
-    }
-  ],
+  "menu": [],
   "linkcolor": "#000000"
 }
