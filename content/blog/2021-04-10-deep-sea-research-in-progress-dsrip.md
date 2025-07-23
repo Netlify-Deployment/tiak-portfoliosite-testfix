@@ -2,7 +2,7 @@
 title: Deep Sea Research in Progress (DSRIP) (2020)
 date: Saturday April 10th, 2021
 thumbnail: /images/uploads/screen-shot-2021-02-05-at-3.28.13-pm.jpg
-subcategory: Other Artistic Practises
+subcategory: RESEARCH & other
 ---
 # DSRIP (2020)
 
