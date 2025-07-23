@@ -2,6 +2,7 @@
 title: "a practise: Misinterpretation (a performance)"
 date: Wednesday July 23rd, 2025
 thumbnail: /images/uploads/fluid310.jpg
+subcategory: TOURING
 ---
 A tirade of sonic innuendo to pop culture, Bouffon about the escapism of being White passing, and ultimately grief through burnout, **a practise: Misinterpretation (a performance)** unveils the constant fight to be true to yourself even when being White might be the easiest option. 
 
