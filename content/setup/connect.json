@@ -1,16 +1,12 @@
 {
   "connectlinks": [
     {
-      "name": "instagram",
-      "url": "https://www.instagram.com/ya_di_tai/"
-    },
-    {
-      "name": "youtube",
-      "url": "https://www.youtube.com/channel/UCHXlhHHi9oChvUiUCt3nWHA"
-    },
-    {
       "name": "email",
       "url": "mailto:tiaakush71@gmail.com"
+    },
+    {
+      "name": "phone number",
+      "url": "+1.587.982.1059"
     }
   ]
 }
