@@ -1,5 +1,5 @@
 ---
-title: NES Shitpost / the artist is sleeping
+title: NES / the artist is sleeping
 date: Monday May 15th, 2023
 thumbnail: ""
 ---
