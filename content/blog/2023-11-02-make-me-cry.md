@@ -1,14 +1,24 @@
 ---
-title: make me cry (2023)
+title: make me cry (2023-2026)
 date: Thursday November 2nd, 2023
-thumbnail: /images/uploads/untitled_artwork-8.png
+thumbnail: /images/uploads/250407000068080018.jpeg
 subcategory: Live Work
 ---
-'﻿make me cry' is a solo work inspired by/in response to the durational group work 'make banana cry' by Andrew Tay and Stephen Thompson. An existential exploration into the psyche of our titular artist (tia), the audience is delved into the horror and ambiguity of what it means to be the end result of a fetish versus participating in one, and the minstrelsy that accompanies BIPOC artists creating 'valuable' work for the consuming public. 
+**'﻿make me cry'** is an existential solo exploration into the psyche of our titular artist (tia): What does it mean to be the end result of a fetish versus participating in one? What happens when the public self follows into the private life? And, can abstraction belong to those who aren’t white?  A performance lecture using dance, clown, anecdote and performance theory, the audience is delved into the minstrelsy that accompanies BIPOC artists creating 'valuable' work for the consuming public.
 
-to watch the trailer, please click [here](https://youtu.be/A-VoBgJj4zc)
+to watch the trailer, please click here
 
-'﻿make me cry' 
+**W﻿ORKSHOPS** 
+
+2﻿023 - Fluid Festival Calgary AB 
+
+2﻿024 - Magpie Collection Festival Edmonton AB 
+
+**P﻿REMIERE**
+
+2﻿026 - Tangente Montreal PQ
+
+**C﻿REDITS**
 
 C﻿horeographer/Creator: Tia Ashley Kushniruk
 
@@ -26,4 +36,6 @@ V﻿ideographer: Naomi Caufield
 
 S﻿pecial Thanks: Susannah Haight, Clarke Blair, Eryn Tempest, Stephen Thompson, Andrew Tay, Nicole Mion, NES artist residency, Jocelyn Mah
 
-'﻿make me cry' was first presented at Fluid Festival 2023 in Calgary AB CAN and part of Mile Zero's  Magpie   Collection Festival 2024. 'make me cry' will be presented as part of Tangente's 25/26  season in Monteal PQ
+
+
+*p﻿hotograph by Susannah Haight*
