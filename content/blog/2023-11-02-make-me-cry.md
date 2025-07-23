@@ -2,7 +2,7 @@
 title: make me cry
 date: Thursday November 2nd, 2023
 thumbnail: /images/uploads/250407000068080018.jpeg
-subcategory: Live Work
+subcategory: TOURING
 ---
 **'﻿make me cry'** is an existential solo exploration into the psyche of our titular artist (tia): What does it mean to be the end result of a fetish versus participating in one? What happens when the public self follows into the private life? And, can abstraction belong to those who aren’t white?  A performance lecture using dance, clown, anecdote and performance theory, the audience is delved into the minstrelsy that accompanies BIPOC artists creating 'valuable' work for the consuming public.
 
