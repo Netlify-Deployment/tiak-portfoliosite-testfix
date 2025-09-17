@@ -28,7 +28,7 @@ export const actions = {
       commit('SET_CATEGORIES', categories)
     } catch (e) {
       const error = 'Initial Setup Error: ' + e.message + e
-      console.warning(error)
+      console.warn(error)
       commit('SET_ERROR', error);
     }
   }
